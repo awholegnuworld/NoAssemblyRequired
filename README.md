@@ -5,6 +5,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 [![made-with-webassembly](https://img.shields.io/badge/Made%20with-WebAssembly-1f425f.svg)](https://webassembly.org/)
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 
 Welcome to your final Javascript framework. NoAssemblyRequired aims to be the only framework that you ever need when developing your projects. While always adapting and changing, NAR (NoAssemblyRequired) acts as a compatibility layer between various languages, frameworks, and architectures.
 
