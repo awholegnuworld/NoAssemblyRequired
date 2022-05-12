@@ -14,3 +14,8 @@ NoAssemblyRequired runs on the client-side. It runs entirely server-agnostic, ma
 * SCSS
 * Perl
 
+If you enjoy this project, make sure to thank the people who helped to make it!
+
+<a href="https://github.com/awholegnuworld/NoAssemblyRequired/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=awholegnuworld/NoAssemblyRequired" />
+</a>
