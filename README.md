@@ -1,12 +1,11 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 # NoAssemblyRequired
-[![License: LGPL v3](https://img.shields.io/badge/License-LGPL_v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
-[![made-with-webassembly](https://img.shields.io/badge/Made%20with-WebAssembly-1f425f.svg)](https://webassembly.org/)
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
-![Size](https://github-size-badge.herokuapp.com/awholegnuworld/NoAssemblyRequired.svg)
+![GitHub](https://img.shields.io/github/license/awholegnuworld/NoAssemblyRequired?style=for-the-badge)
+[![made-with-javascript](https://img.shields.io/badge/Made%20with-JS-blue?style=for-the-badge&logo=javascript&logoColor=lightgrey)](https://www.javascript.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=git&logoColor=lightgrey)](http://makeapullrequest.com)
+[![made-with-webassembly](https://img.shields.io/badge/Made%20with-WASM-purple?style=for-the-badge&logo=webassembly&logoColor=lightgrey)](https://webassembly.org/)
+![GitHub repo size](https://img.shields.io/github/repo-size/awholegnuworld/NoAssemblyRequired?style=for-the-badge)
+![Donation](https://img.shields.io/badge/BTC-bc1pgmp50hn85wx29akdl8pjvmxljgfn0etmf2xhukwq0mttexju3kaql75tz7-orange?style=for-the-badge&logo=bitcoin)
 
 Welcome to your final Javascript framework. NoAssemblyRequired aims to be the only framework that you ever need when developing your projects. While always adapting and changing, NAR (NoAssemblyRequired) acts as a compatibility layer between various languages, frameworks, and architectures.
 
