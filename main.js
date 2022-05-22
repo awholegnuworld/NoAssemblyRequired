@@ -62,3 +62,15 @@ if (react_attr.hasAttribute('react')) {
 	document.getElementsByTagName('head')[0].appendChild(react_inject);
 	document.getElementsByTagName('head')[0].appendChild(reactdom_inject);
 }
+var backbone_attr = document.getElementsByTagName('html')[0];
+if (backbone_attr.hasAttribute('backbone')) {
+	var backbone_inject = document.createElement('script');
+	backbone_inject.src = './backbone.js';
+	document.getElementsByTagName('head')[0].appendChild(backbone_inject);
+}
+var vue_attr = document.getElementsByTagName('html')[0];
+if (vue_attr.hasAttribute('vue')) {
+	var vue_inject = document.createElement('script');
+	vue_inject.src = './vue.js';
+	document.getElementsByTagName('head')[0].appendChild(vue_inject);
+}
