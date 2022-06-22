@@ -1,3 +1,4 @@
+// Inject the compiled CSS into the page
 'use strict';
 
 function findAndConvertTags() {
@@ -32,9 +33,17 @@ if (typeof window !== 'undefined' && typeof document !== 'undefined') {
 if (typeof exports !== 'undefined') {
 	exports.findAndConvertTags = findAndConvertTags;
 }
+
+// Injects the required JS files into the page.
 var perl_inject = document.createElement('script');
 perl_inject.src = './Perl/webperl.js';
 document.getElementsByTagName('head')[0].appendChild(perl_inject);
+var markdown_inject = document.createElement('script');
+markdown_inject.src = './markdown.js';
+document.getElementsByTagName('head')[0].appendChild(markdown_inject);
+
+
+// For the Library Manager.
 var jquery_attr = document.getElementsByTagName('html')[0];
 if (jquery_attr.hasAttribute('js-jquery')) {
 	var jquery_inject = document.createElement('script');
