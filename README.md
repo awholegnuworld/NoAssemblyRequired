@@ -16,6 +16,7 @@ NAR is a project built in the spirit of DPATL (R.I.P). DPATL aimed to allow the 
 NoAssemblyRequired runs on the client-side. It runs entirely server-agnostic, making it compatible with IPFS technology. Nothing is compiled before hand, so dynamic pages are able to be encoded on blockchains. NAR will allow uses to utilize frameworks like Angular and JQuery without setting them up. Below are the langauges that NAR currently supports:
 * SCSS
 * Perl
+* Markdown
 
 NoAssemblyRequired attempts to not stray from the default HTML5 sytanx when possible. Unlike DPATL, which had it's own unique syntax that had to be learned, NAR is intuitively designed to fit right into HTML5. If you know HTML, you know NAR. For example, to use SCSS in NAR, you would add ```type="text/scss"``` to the style tag in HTML. To use Perl, you would add ```type="text/perl"``` to the script tag.
 
